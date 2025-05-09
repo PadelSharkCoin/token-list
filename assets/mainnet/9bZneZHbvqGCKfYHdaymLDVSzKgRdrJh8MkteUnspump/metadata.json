@@ -1,0 +1,16 @@
+{
+  "name": "PadelShark",
+  "symbol": "SHARK",
+  "address": "9bZneZHbvqGCKfYHdaymLDVSzKgRdrJh8MkteUnspump",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/PadelSharkCoin/token-list/main/assets/mainnet/9bZneZHbvqGCKfYHdaymLDVSzKgRdrJh8MkteUnspump/logo.png",
+  "tags": [
+    "meme",
+    "sport",
+    "community"
+  ],
+  "extensions": {
+    "website": "https://sharkpadelcoin.com",
+    "description": "PadelShark is a meme token inspired by the speed of Solana and the passion of padel players worldwide."
+  }
+}
